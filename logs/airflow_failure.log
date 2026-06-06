@@ -1,0 +1,13 @@
+Timestamp: 2026-06-01
+
+Airflow DAG Failed
+
+Task:
+load_customer_data
+
+Error:
+Database connection timeout
+
+Retries Exhausted
+
+Pipeline Stopped
