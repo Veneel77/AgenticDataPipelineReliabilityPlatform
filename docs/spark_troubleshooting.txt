@@ -1,0 +1,16 @@
+Spark Job Troubleshooting
+
+Symptoms:
+- Executor loss
+- OOM errors
+- Stage failures
+
+Root Causes:
+- Memory exhaustion
+- Data skew
+- Cluster instability
+
+Resolution:
+- Increase executor memory
+- Repartition data
+- Tune Spark configuration

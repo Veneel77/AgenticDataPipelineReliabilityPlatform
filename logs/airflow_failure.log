@@ -1,5 +1,7 @@
 Timestamp: 2026-06-01
 
+Pipeline Name: daily_customer_load
+
 Airflow DAG Failed
 
 Task:
@@ -11,3 +13,6 @@ Database connection timeout
 Retries Exhausted
 
 Pipeline Stopped
+
+Impact:
+Daily customer data not refreshed.

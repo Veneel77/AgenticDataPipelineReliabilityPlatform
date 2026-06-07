@@ -1,0 +1,16 @@
+Schema Drift Troubleshooting
+
+Symptoms:
+- Missing columns
+- Validation failures
+- Pipeline termination
+
+Root Causes:
+- Upstream schema changes
+- Data producer modifications
+- ETL mapping errors
+
+Resolution:
+- Validate source schema
+- Update ETL mappings
+- Implement schema contracts

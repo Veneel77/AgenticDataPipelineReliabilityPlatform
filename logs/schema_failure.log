@@ -1,0 +1,15 @@
+Timestamp: 2026-06-01
+
+Pipeline Name: customer_ingestion_pipeline
+
+Status: FAILED
+
+Error:
+Column customer_age missing.
+
+Validation Stage Failed.
+
+Pipeline Terminated.
+
+Impact:
+Customer records not loaded.

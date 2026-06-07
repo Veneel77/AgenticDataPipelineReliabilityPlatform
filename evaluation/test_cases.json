@@ -1,0 +1,16 @@
+[
+  {
+    "log":"schema_failure.log",
+    "expected_root_cause":"Schema Drift"
+  },
+
+  {
+    "log":"airflow_failure.log",
+    "expected_root_cause":"Database Timeout"
+  },
+
+  {
+    "log":"spark_failure.log",
+    "expected_root_cause":"Memory Exhaustion"
+  }
+]

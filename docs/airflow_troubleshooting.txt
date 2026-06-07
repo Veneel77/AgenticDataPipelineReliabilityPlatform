@@ -1,0 +1,16 @@
+Airflow DAG Troubleshooting
+
+Symptoms:
+- Task failures
+- DAG failures
+- Retry exhaustion
+
+Root Causes:
+- Database timeout
+- Authentication issues
+- Resource limitations
+
+Resolution:
+- Check database connectivity
+- Verify credentials
+- Increase retry policy

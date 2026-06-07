@@ -1,5 +1,7 @@
 Timestamp: 2026-06-01
 
+Pipeline Name: customer_feature_engineering
+
 Spark Job Failed
 
 Executor Lost
@@ -7,3 +9,6 @@ Executor Lost
 Out Of Memory Error
 
 Stage Aborted
+
+Impact:
+Feature generation incomplete.
